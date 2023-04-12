@@ -1,4 +1,8 @@
-# Dashboard_SuperSet_Retention_rate
+Project name        |	  Дашборд по удержанию пользователей (срез по источнику привлечения)      |
+:---                |---        |
+**Description**     |   нам нужно понимать, как удерживаются пользователи в срезе по источнику привлечения из когорты от 12 марта        |
+**Target**          |   создать простой дашборд в котором будет видно, как удерживаются наши пользователи из когорты от 12 марта         |
+**Stack**           |  :heavy_check_mark: **ClickHouse** </br> :heavy_check_mark: **SuperSet**         |
 
 
 ![Retention Rate](https://user-images.githubusercontent.com/110673529/231429195-fb5196e6-ee19-4b0e-aa00-750cc64240f7.png)
